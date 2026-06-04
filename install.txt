@@ -1,0 +1,16 @@
+langchain-community 
+langchain-core
+langchain
+langchain-text-splitters
+langchain-core
+langchain-classic
+langchain-openai
+unstructured
+unstructured[md]
+libmagic
+python-dotenv
+chromadb
+langchain-chroma
+pypdf
+pytest
+boto3
